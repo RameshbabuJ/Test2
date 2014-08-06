@@ -10,6 +10,7 @@ namespace Test3
     {
         static void Main(string[] args)
         {
+            Console.Write("Changes in SIT");
         }
     }
 }
